@@ -32,9 +32,9 @@ Select the type in the dropdown and provided and see different results
 
 ![screenshot1](https://user-images.githubusercontent.com/43055292/77282040-13185280-6c86-11ea-9590-ca17fa8ab87d.png)
 
-![screenshot2](https://user-images.githubusercontent.com/43055292/77282060-23303200-6c86-11ea-9ae1-1104dd518045.png)
+![screenshot2](https://user-images.githubusercontent.com/43055292/77283203-08ab8800-6c89-11ea-99ad-b2839f15d064.png)
 
-![screenshot3](https://user-images.githubusercontent.com/43055292/77282065-25928c00-6c86-11ea-94a3-c707fd150206.png)
+![screenshot3](https://user-images.githubusercontent.com/43055292/77283207-09dcb500-6c89-11ea-817a-f62e36d564e4.png)
 
 ![screenshot4](https://user-images.githubusercontent.com/43055292/77282812-27f5e580-6c88-11ea-8f23-36f5b3dd2b9e.png)
 
