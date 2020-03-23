@@ -25,10 +25,12 @@ This is an assignment for SER 574 solving the problem Hawks and Dove using Unity
 
 ## Type of Simulation 
 Select the type in the dropdown and provided and see different results
-- Uniform Distribution (d, r)
-- Normal Distribution (d, r)
+- Uniform Distribution (deathThreshold, reproductionThreshold)
+- Normal Distribution (deathThreshold, reproductionThreshold)
 
 ## Some Simulation Results
+
+![screenshot0](https://user-images.githubusercontent.com/43055292/77283291-401a3480-6c89-11ea-820c-346fb99409d1.png)
 
 ![screenshot1](https://user-images.githubusercontent.com/43055292/77282040-13185280-6c86-11ea-9590-ca17fa8ab87d.png)
 
