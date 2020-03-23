@@ -24,7 +24,7 @@ This is an assignment for SER 574 solving the problem Hawks and Dove using Unity
 - White Sphere - Dove
 
 ## Type of Simulation 
-Select e
+Select the type in the dropdown and provided and see different results
 - Uniform Distribution (d, r)
 - Normal Distribution (d, r)
 
