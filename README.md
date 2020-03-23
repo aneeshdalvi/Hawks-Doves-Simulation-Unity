@@ -18,6 +18,11 @@ This is an assignment for SER 574 solving the problem Hawks and Dove using Unity
 - You can change the user inputs and see different results.
 - If you do not see graph scroll out and see view it.
 
+## Items on Screen
+- Red Sphere - Hawk
+- Green Sphere - Food
+- White Sphere - Dove
+
 ## Some Simulation Results
 
 ![screenshot1](https://user-images.githubusercontent.com/43055292/77282040-13185280-6c86-11ea-9590-ca17fa8ab87d.png)
