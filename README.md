@@ -23,6 +23,11 @@ This is an assignment for SER 574 solving the problem Hawks and Dove using Unity
 - Green Sphere - Food
 - White Sphere - Dove
 
+## Type of Simulation 
+Select e
+- Uniform Distribution (d, r)
+- Normal Distribution (d, r)
+
 ## Some Simulation Results
 
 ![screenshot1](https://user-images.githubusercontent.com/43055292/77282040-13185280-6c86-11ea-9590-ca17fa8ab87d.png)
