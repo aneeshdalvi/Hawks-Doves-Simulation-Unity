@@ -31,7 +31,7 @@ This is an assignment for SER 574 solving the problem Hawks and Dove using Unity
 
 ![screenshot3](https://user-images.githubusercontent.com/43055292/77282065-25928c00-6c86-11ea-94a3-c707fd150206.png)
 
-![screenshot4](https://user-images.githubusercontent.com/43055292/77282067-26c3b900-6c86-11ea-957f-591ad01eadf8.png)
+![screenshot4](https://user-images.githubusercontent.com/43055292/77282812-27f5e580-6c88-11ea-8f23-36f5b3dd2b9e.png)
 
 ## Acknowledgments
 
